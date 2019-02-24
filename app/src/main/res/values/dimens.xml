@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="w">890dp</dimen>
+    <dimen name="h">500dp</dimen>
+</resources>

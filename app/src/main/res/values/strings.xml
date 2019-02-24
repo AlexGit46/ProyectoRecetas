@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecetasClase</string>
+    <string name="title_activity_recetas">RecetasActivity</string>
+    <string name="title_activity_receta">RecetaActivity</string>
+</resources>
